@@ -1,0 +1,33 @@
+{
+  "name": "Wendy One",
+  "designer": "Alejandro Inler",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 12651,
+  "fonts": [
+    {
+      "name": "Wendy One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "WendyOne-Regular-TTF.ttf",
+      "postScriptName": "WendyOne-Regular",
+      "fullName": "Wendy One",
+      "copyright": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'"
+    },
+    {
+      "name": "Wendy One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "WendyOne-Regular.ttf",
+      "postScriptName": "WendyOne-Regular",
+      "fullName": "Wendy One",
+      "copyright": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-12-05"
+}
